@@ -1,0 +1,9 @@
+# Парсер
+playwright>=1.40.0
+requests>=2.31.0
+vosk>=0.3.45
+openpyxl>=3.1.2
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+Django>=5.0,<5.2
+gunicorn>=21.2.0
